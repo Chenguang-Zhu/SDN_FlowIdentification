@@ -1,0 +1,20 @@
+jenny@ubuntu:~/csc2229-final-project/analyzer$ tail -3 2b
+test size:4000
+VALIDATION RESULT
+3387
+jenny@ubuntu:~/csc2229-final-project/analyzer$ tail -3 3b
+test size:4000
+VALIDATION RESULT
+3399
+jenny@ubuntu:~/csc2229-final-project/analyzer$ tail -3 4b
+test size:4000
+VALIDATION RESULT
+3371
+jenny@ubuntu:~/csc2229-final-project/analyzer$ tail -3 8b
+test size:3378
+VALIDATION RESULT
+1479
+jenny@ubuntu:~/csc2229-final-project/analyzer$ tail -3 10b
+test size:3378
+VALIDATION RESULT
+1495
